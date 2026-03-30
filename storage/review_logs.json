@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "file_path": "examples\\sample_a.py",
+      "total_functions": 3,
+      "functions_with_docstring": 3,
+      "generated_docstrings": 0,
+      "coverage_percent": 100.0,
+      "parsing_errors": []
+    },
+    {
+      "file_path": "examples\\sample_b.py",
+      "total_functions": 2,
+      "functions_with_docstring": 2,
+      "generated_docstrings": 0,
+      "coverage_percent": 100.0,
+      "parsing_errors": []
+    }
+  ],
+  "aggregate": {
+    "total_files": 2,
+    "total_functions": 5,
+    "documented": 5,
+    "generated_docstrings": 0,
+    "coverage_percent": 100.0,
+    "meets_threshold": true,
+    "parsing_errors_total": 0
+  }
+}
